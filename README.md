@@ -8,3 +8,4 @@
 - [Assignment 2 - Inverted Triplets](as2)
 - [Assignment 3 - Lambert W Function](as3)
 - [Assignment 4 - Yet Another Vintage Screen](as4)
+- [Assignment 5 - Percentiles](as5)
