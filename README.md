@@ -11,3 +11,4 @@
 - [Assignment 5 - Percentiles](as5)
 - [Assignment 6 - Maximum Sum of Subsequences](as6)
 - [Assignment 7 - Cost of Subtractions](as7)
+- [Assignment 8 - Distinct Points](as8)
