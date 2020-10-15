@@ -10,3 +10,4 @@
 - [Assignment 4 - Yet Another Vintage Screen](as4)
 - [Assignment 5 - Percentiles](as5)
 - [Assignment 6 - Maximum Sum of Subsequences](as6)
+- [Assignment 7 - Cost of Subtractions](as7)
