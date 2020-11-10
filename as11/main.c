@@ -12,11 +12,11 @@ int main() {
   }
   d[n - 1][n - 1] = 1;
   for (i = 2; i < n; ++i)
-    for (j = 0; j < n - i; ++j) {
-      d[j][j + i] = max(d[j + 1][j + i], d[j][j + i - 1]);
-      if (s[j] == s[j + i] && d[j][j + i] < d[j + 2][j + i - 2] + 2)
+    for (j = 0; j < n - i; ++j)
+      if (s[j] == s[j + i])
         d[j][j + i] = d[j + 2][j + i - 2] + 2;
-    }
+      else
+        d[j][j + i] = max(d[j + 1][j + i], d[j][j + i - 1]);
   printf("%d", d[0][n - 1]);
   return 0;
 }

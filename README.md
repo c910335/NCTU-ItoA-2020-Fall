@@ -14,3 +14,4 @@
 - [Assignment 8 - Distinct Points](as8)
 - [Assignment 9 - Circular Sums](as9)
 - [Assignment 10 - Sum of Four](as10)
+- [Assignment 11 - Longest Palindromic Subsequence](as11)
