@@ -27,3 +27,8 @@
 - [Assignment 16 - Shortest Manhattan Walk](as16)
 - [Assignment 17 - Shortest Closed Walk](as17)
 - [Assignment 18 - Second Largest Strongly Connected Component](as18)
+- [Quiz 2.1 - Maximum Sum of Subsequence](q2.1)
+- [Quiz 2.2 - Range Mode Query](q2.2)
+- [Quiz 2.3 - Grid Reachability](q2.3)
+- [Quiz 2.4 - Strongly Connected Component Test](q2.4)
+- [Quiz 2.5 - All Pairs Shortest Paths](q2.5)
