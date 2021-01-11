@@ -5,8 +5,10 @@ int n, m, q, i, v, w, j, g[5000][5000], o[500000][2], os, p[5000], s[5000], a[50
 
 int f(int x) {
   for (t = x; t != p[t]; t = p[t]);
-  for (; x != p[x]; x = p[x])
+  for (; x != p[x]; x = v) {
+    v = p[x];
     p[x] = t;
+  }
   return t;
 }
 
